@@ -1,3 +1,6 @@
+// Application URL - https://localhost:7105/api/Book
+// Ref URL Code - https://dotnettutorials.net/lesson/microservices-using-asp-net-core/
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
